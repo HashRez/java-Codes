@@ -1,0 +1,1 @@
+This contains some java problems coding solution,some of them are butterfly pattern, hollow rhombus,various other patterns,some question involving OOPS concept in JAVA,program containing methods ans functions,concept of polymorphism,inheritance,abstration etc
